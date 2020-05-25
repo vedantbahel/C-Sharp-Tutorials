@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=lL8p4EbKhSE
 
 
-## Lecture 2 : Lesson 02 -Built in Data Types in C#, Converting Data Types and User Input 
+## Lecture 02 : Lesson 02 -Built in Data Types in C#, Converting Data Types and User Input 
 https://www.youtube.com/watch?v=a1p_ylmO3jc
 
 ## Lesson 03 -Mathematics in C#
