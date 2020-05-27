@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=B2qrjs0l8AA
 
 ## Lesson 04 -Strings & Booleans in C#
 https://www.youtube.com/watch?v=MTet9pp3ZIM
+
+## Lesson 05 -Conditional Statement (If-Else if-Else & Switch)in C#
+https://www.youtube.com/watch?v=cIIhmyhZMEo
